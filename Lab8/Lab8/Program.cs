@@ -72,7 +72,7 @@ namespace Lab8
         {
             get
             {
-                if (index > count - 1 || index < 0) throw new WrongIndexException("ERROR: Wrong index");
+                if (index > count - 1 || index < 0) throw new WrongIndexException("ERROR: индекс");
 
                 Node<T> temp = head;
                 for (int i = 0; i < index; i++)
@@ -84,7 +84,7 @@ namespace Lab8
             }
             set
             {
-                if (index > count - 1 || index < 0) throw new WrongIndexException("ERROR: Wrong index");
+                if (index > count - 1 || index < 0) throw new WrongIndexException("ERROR: индекс");
 
                 Node<T> temp = head;
                 for (int i = 0; i < index; i++)
