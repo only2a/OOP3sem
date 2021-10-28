@@ -1,0 +1,13 @@
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
